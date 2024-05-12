@@ -1,0 +1,12 @@
+*
+!broadcast/
+!broadcast/broadcast_receiver.c
+!broadcast/broadcast_sender.c
+!broadcast/Makefile
+
+!multicast/
+!multicast/multicast_receiver.c
+!multicast/multicast_sender.c
+!multicast/Makefile
+
+!.gitignore
