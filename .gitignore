@@ -10,3 +10,4 @@
 !multicast/Makefile
 
 !.gitignore
+!README.md
